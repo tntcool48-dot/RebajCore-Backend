@@ -45,8 +45,8 @@
       "version": "1.0.0",
       "icon_url": "",
       "download_url": "https://github.com/tntcool48-dot/Universal-Converter-Pro/releases/download/v1.0/Universal.Converter.Pro.zip",
-      "description_url": "https://raw.githubusercontent.com/tntcool48-dot/UniversalConverterPro/main/description.txt",
-      "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/UniversalConverterPro/main/changelog.txt",
+      "description_url": "https://github.com/tntcool48-dot/Universal-Converter-Pro/main/description.txt",
+      "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/Universal-Converter-Pro/main/changelog.txt",
       "executable": "Universal Converter Pro.exe",
       "arguments": ""
     }
