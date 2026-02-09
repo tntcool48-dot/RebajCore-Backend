@@ -1,6 +1,6 @@
 {
-  "launcher_version": "1.2.0",
-  "launcher_download_url": "https://github.com/tntcool48-dot/RebajCore-Backend/releases/download/v1.2/rebaj.core.v1.2.exe",
+  "launcher_version": "1.3.0",
+  "launcher_download_url": "https://github.com/tntcool48-dot/RebajCore-Backend/releases/download/v1.3/rebaj.core.exe",
   "apps": [
     {
       "id": "guardian_bot",
