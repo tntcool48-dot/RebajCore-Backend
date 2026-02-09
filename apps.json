@@ -49,6 +49,18 @@
       "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/Universal-Converter-Pro/refs/heads/main/changelog.txt",
       "executable": "Universal Converter Pro.exe",
       "arguments": ""
+    },
+    {
+      "id": "dub_detect",
+      "name": "DubDetect",
+      "category": "Work",
+      "version": "1.0.0",
+      "icon_url": "",
+      "download_url": "https://github.com/tntcool48-dot/DubDetect/releases/download/v1.0/DubDetect.exe",
+      "description_url": "https://raw.githubusercontent.com/tntcool48-dot/DubDetect/refs/heads/main/README.md",
+      "changelog_url": "",
+      "executable": "DubDetect.exe",
+      "arguments": ""
     }
   ]
 }
