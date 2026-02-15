@@ -62,15 +62,15 @@
       "executable": "DubDetect.exe",
       "arguments": ""
     },
-     {
+    {
       "id": "hotpotatoTEST",
-      "name": "hotpotatoTEST",
-      "category": "Gaming",
+      "name": "Hot Potato TEST",
+      "category": "Gaming", 
       "version": "1.0.0",
       "icon_url": "",
       "download_url": "https://github.com/tntcool48-dot/delete/releases/download/v.5/Hot.Potato.test.zip",
-      "description_url": "",
-      "changelog_url": "",
+      "description_url": "https://raw.githubusercontent.com/tntcool48-dot/delete/main/description.txt", 
+      "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/delete/main/changelog.txt",
       "executable": "Hot Potato.exe",
       "arguments": ""
     }
