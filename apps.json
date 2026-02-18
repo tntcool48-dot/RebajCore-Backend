@@ -63,14 +63,14 @@
       "arguments": ""
     },
     {
-      "id": "hotpotatoTEST",
-      "name": "Hot Potato TEST",
+      "id": "hotpotatolauncher",
+      "name": "Hot Potato launcher",
       "category": "Gaming", 
       "version": "1.0.0",
       "icon_url": "",
-      "download_url": "https://github.com/tntcool48-dot/delete/releases/download/v.5/Hot.Potato.test.zip",
-      "description_url": "https://raw.githubusercontent.com/tntcool48-dot/delete/main/description.txt", 
-      "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/delete/main/changelog.txt",
+      "download_url": "https://github.com/tntcool48-dot/hotpotatolauncher/releases/download/v1.0/hotpotato.zip",
+      "description_url": "https://github.com/tntcool48-dot/hotpotatolauncher/raw/refs/heads/master/description.txt", 
+      "changelog_url": "https://github.com/tntcool48-dot/hotpotatolauncher/raw/refs/heads/master/changelog.txt",
       "executable": "Hot Potato.exe",
       "arguments": ""
     }
