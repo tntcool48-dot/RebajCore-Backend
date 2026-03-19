@@ -73,6 +73,18 @@
       "changelog_url": "https://github.com/tntcool48-dot/hotpotatolauncher/raw/refs/heads/master/changelog.txt",
       "executable": "Hot Potato.exe",
       "arguments": ""
+    },
+    {
+      "id": "computer_diagnostic_tool",
+      "name": "Computer Diagnostic Tool",
+      "category": "Work",
+      "version": "1.0.0",
+      "icon_url": "",
+      "download_url": "https://github.com/tntcool48-dot/Computer-Diagnostic-Tool/releases/download/v1.0.0/DiagTool.exe",
+      "description_url": "https://raw.githubusercontent.com/tntcool48-dot/Computer-Diagnostic-Tool/main/README.md",
+      "changelog_url": "",
+      "executable": "DiagTool.exe",
+      "arguments": ""
     }
   ]
 }
