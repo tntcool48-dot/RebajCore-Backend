@@ -82,7 +82,7 @@
       "icon_url": "",
       "download_url": "https://github.com/tntcool48-dot/Computer-Diagnostic-Tool/releases/download/v2.0.0/DiagTool.exe",
       "description_url": "https://raw.githubusercontent.com/tntcool48-dot/Computer-Diagnostic-Tool/main/README.md",
-      "changelog_url": "https://github.com/tntcool48-dot/Computer-Diagnostic-Tool/blob/main/RELEASE_NOTES_2.4.0.md",
+      "changelog_url": "https://raw.githubusercontent.com/tntcool48-dot/Computer-Diagnostic-Tool/refs/heads/main/RELEASE_NOTES_2.4.0.md",
       "executable": "DiagTool.exe",
       "arguments": ""
     },
